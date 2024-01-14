@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.740566ac.css",
+    "main.css": "/static/css/main.51cf2933.css",
     "main.js": "/static/js/main.15323471.js",
     "static/media/Glossier.png": "/static/media/Glossier.bc6aecb3ebb3d213c856.png",
     "static/media/homepage_ecommerce.png": "/static/media/homepage_ecommerce.e631a24c5ad5fb1f85b0.png",
@@ -14,11 +14,11 @@
     "static/media/cross.svg": "/static/media/cross.d2935f7c04c8207bb342569caae6b0b7.svg",
     "index.html": "/index.html",
     "static/media/burgerMenu.svg": "/static/media/burgerMenu.6e1707011c48fdf3aebd0d272bd4abc1.svg",
-    "main.740566ac.css.map": "/static/css/main.740566ac.css.map",
+    "main.51cf2933.css.map": "/static/css/main.51cf2933.css.map",
     "main.15323471.js.map": "/static/js/main.15323471.js.map"
   },
   "entrypoints": [
-    "static/css/main.740566ac.css",
+    "static/css/main.51cf2933.css",
     "static/js/main.15323471.js"
   ]
 }
