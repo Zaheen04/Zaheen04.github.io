@@ -6,7 +6,7 @@ import {Link} from 'react-scroll';
 const Project = ({projectData}) => {
     return (
         <div id="projects" className="projectContainer" >
-            <img src={projectData.screenshot} className="pro"></img>
+            <img src={projectData.screenshot} className="projectImage"></img>
             <div>
                 <h1 className='title'>{projectData.name}</h1>
                 <div className='title'>

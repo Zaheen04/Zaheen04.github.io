@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import "./navbar.css"
 import resume from "../../assets/zaheenKhan.pdf"
+import cross from "../../assets/cross.svg"
+import burgerMenu from "../../assets/burgerMenu.svg"
 
 function Navbar() {
     const [burger, setBurger] = useState(false);
@@ -79,7 +81,7 @@ function Navbar() {
                 <div id="smallScreenNavbar">
                     <div><h2>Portfolio</h2></div>
                     <div onClick={() => { setBurger(!burger) }}>
-                        <img src={burger ? "/Images/cross.svg" : "/Images/burgerMenu.svg"} alt="" />
+                        <img src={burger ? cross : burgerMenu} alt="" />
                     </div>
                 </div>
             </div >
