@@ -50,12 +50,6 @@
     }
 
     .projectImage {
-        width: 800px;
-    }
-}
-
-@media screen and (width<600px) {
-    .projectImage {
-        width: 600px;
+        width: 100vw;
     }
 }
