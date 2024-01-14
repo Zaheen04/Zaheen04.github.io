@@ -2,7 +2,7 @@ import React from 'react';
 import './intro.css';
 import Typewriter from 'typewriter-effect';
 import bg from '../../assets/profile.jpeg';
-import resume from "../../assets/zaheenKhan.pdf"
+import resume from "../../assets/ZaheenKhan_Resume.pdf"
 
 const Intro = () => {
     const downloadHandle = () => {
@@ -36,7 +36,7 @@ const Intro = () => {
                         <span>
                             <Typewriter
                                 options={{
-                                    strings: ["Full Stack Web Developer", "MERN Stack Developer", "Backend Developer", "Fontend Developer"],
+                                    strings: ["Full Stack Web Developer"],
                                     autoStart: true,
                                     loop: true,
                                 }}
