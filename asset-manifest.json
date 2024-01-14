@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zaheen04.github.io/static/css/main.b844c98a.css",
+    "main.js": "/Zaheen04.github.io/static/js/main.30c26af0.js",
+    "static/media/Glossier.png": "/Zaheen04.github.io/static/media/Glossier.bc6aecb3ebb3d213c856.png",
+    "static/media/homepage_ecommerce.png": "/Zaheen04.github.io/static/media/homepage_ecommerce.e631a24c5ad5fb1f85b0.png",
+    "static/media/skinstore.png": "/Zaheen04.github.io/static/media/skinstore.42cc607db987d7b03332.png",
+    "static/media/Phone.png": "/Zaheen04.github.io/static/media/Phone.575b2d3db50b076fd871.png",
+    "static/media/LinkedIn.png": "/Zaheen04.github.io/static/media/LinkedIn.6ac77341c7a1f1743ba6.png",
+    "static/media/Github.png": "/Zaheen04.github.io/static/media/Github.b59201ef2ff446316717.png",
+    "static/media/zaheenKhan.pdf": "/Zaheen04.github.io/static/media/zaheenKhan.b14aa54c8a4565c49f24.pdf",
+    "static/media/Email.png": "/Zaheen04.github.io/static/media/Email.4db62796a37be74c2638.png",
+    "static/media/profile.jpeg": "/Zaheen04.github.io/static/media/profile.ffed40b2d57a1a6d8a4d.jpeg",
+    "index.html": "/Zaheen04.github.io/index.html",
+    "main.b844c98a.css.map": "/Zaheen04.github.io/static/css/main.b844c98a.css.map",
+    "main.30c26af0.js.map": "/Zaheen04.github.io/static/js/main.30c26af0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b844c98a.css",
+    "static/js/main.30c26af0.js"
+  ]
+}
