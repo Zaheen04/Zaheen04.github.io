@@ -5,7 +5,7 @@ import {Link} from 'react-scroll';
 
 const Project = ({projectData}) => {
     return (
-        <div className="projectContainer" >
+        <div id="projects" className="projectContainer" >
             <img src={projectData.screenshot} className="pro"></img>
             <div>
                 <h1 className='title'>{projectData.name}</h1>
@@ -17,7 +17,6 @@ const Project = ({projectData}) => {
                 })}
                 </div>
                 <p className='title'>{projectData.description}</p>
-{/* todo : add working links through projectData.link */}
                 <a href={projectData.link} target = "_blank">
                     <button className="projectLinkChip">View Live Project</button>
                 </a>
