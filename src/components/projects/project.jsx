@@ -11,16 +11,16 @@ const Project = ({projectData}) => {
                 <h1 className='title'>{projectData.name}</h1>
                 <div className='title'>
                 {projectData.techList.map(element => {
-                    return (<Link>
+                    return (
                     <button className="projectToolChip">{element}</button>
-                    </Link>)
+                    )
                 })}
                 </div>
                 <p className='title'>{projectData.description}</p>
 {/* todo : add working links through projectData.link */}
-                <Link  target = "_blank">
+                <a href={projectData.link} target = "_blank">
                     <button className="projectLinkChip">View Live Project</button>
-                </Link>
+                </a>
             </div>
         </div>
     );
