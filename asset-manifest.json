@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.b7a29764.css",
-    "main.js": "/static/js/main.27ccfc33.js",
+    "main.js": "/static/js/main.191eb3bd.js",
     "static/media/Glossier.png": "/static/media/Glossier.bc6aecb3ebb3d213c856.png",
     "static/media/homepage_ecommerce.png": "/static/media/homepage_ecommerce.e631a24c5ad5fb1f85b0.png",
     "static/media/skinstore.png": "/static/media/skinstore.42cc607db987d7b03332.png",
     "static/media/Phone.png": "/static/media/Phone.575b2d3db50b076fd871.png",
-    "static/media/ZaheenKhan_Resume.pdf": "/static/media/ZaheenKhan_Resume.f53e69ce683bb43ef02c.pdf",
+    "static/media/ZaheenKhan_Resume.pdf": "/static/media/ZaheenKhan_Resume.b1d849ab4ab8a0fbe65e.pdf",
     "static/media/LinkedIn.png": "/static/media/LinkedIn.6ac77341c7a1f1743ba6.png",
     "static/media/Github.png": "/static/media/Github.b59201ef2ff446316717.png",
     "static/media/Email.png": "/static/media/Email.4db62796a37be74c2638.png",
@@ -15,10 +15,10 @@
     "index.html": "/index.html",
     "static/media/burgerMenu.svg": "/static/media/burgerMenu.35ddd0d7743412db1b84f442da939f7f.svg",
     "main.b7a29764.css.map": "/static/css/main.b7a29764.css.map",
-    "main.27ccfc33.js.map": "/static/js/main.27ccfc33.js.map"
+    "main.191eb3bd.js.map": "/static/js/main.191eb3bd.js.map"
   },
   "entrypoints": [
     "static/css/main.b7a29764.css",
-    "static/js/main.27ccfc33.js"
+    "static/js/main.191eb3bd.js"
   ]
 }
