@@ -137,14 +137,14 @@ export default function Skills() {
             <div className="githubConatiner">
                 <div>
                     <div>
-                        <a href="https://git.io/streak-stats"><img id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=1ashutoshverma&theme=buefy-dark&hide_border=true&background=191924&border=854CE6&ring=854CE6&currStreakNum=854CE6&sideLabels=854CE6&currStreakLabel=854CE6&stroke=854CE6" alt="GitHub Streak" /></a>
+                        <a href="https://git.io/streak-stats"><img id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=Zaheen04&theme=buefy-dark&hide_border=true&background=191924&border=854CE6&ring=854CE6&currStreakNum=854CE6&sideLabels=854CE6&currStreakLabel=854CE6&stroke=854CE6" alt="GitHub Streak" /></a>
                     </div>
                     <div className='react-activity-calendar'>
                         <Github />
                     </div>
                 </div>
                 <div>
-                    <a href="https://git.io/streak-stats"><img id="github-streak-stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ashutoshverma&theme=shades_of_purple" alt="GitHub Streak" /></a>
+                    <a href="https://git.io/streak-stats"><img id="github-streak-stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zaheen04&theme=shades_of_purple" alt="GitHub Streak" /></a>
                 </div>
 
                 <div style={{ height: "0px" }} >
