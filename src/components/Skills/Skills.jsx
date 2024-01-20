@@ -1,5 +1,7 @@
 import React from 'react'
 import "./Skills.css";
+import Github from './Github';
+
 
 const skills = [
     {
