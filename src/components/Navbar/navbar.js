@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import "./navbar.css"
-import resume from "../../assets/ZaheenKhan_Resume.pdf"
+import resume from "../../assets/Zaheen_Resume.pdf"
 import cross from "../../assets/cross.svg"
 import burgerMenu from "../../assets/burgerMenu.svg"
 

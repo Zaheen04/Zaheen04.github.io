@@ -20,6 +20,9 @@ const Project = ({projectData}) => {
                 <a href={projectData.link} target = "_blank">
                     <button className="projectLinkChip">View Live Project</button>
                 </a>
+                <a href={projectData.githubLink} target = "_blank">
+                    <button className="projectLinkChip">View Code</button>
+                </a>
             </div>
         </div>
     );
