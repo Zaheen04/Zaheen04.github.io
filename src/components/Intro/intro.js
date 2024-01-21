@@ -2,7 +2,7 @@ import React from 'react';
 import './intro.css';
 import Typewriter from 'typewriter-effect';
 import bg from '../../assets/profile.jpeg';
-import resume from "../../assets/ZaheenKhan_Resume.pdf"
+import resume from "../../assets/Zaheen-Khan-Resume.pdf"
 
 const Intro = () => {
     const downloadHandle = () => {
